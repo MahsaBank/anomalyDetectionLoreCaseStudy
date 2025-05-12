@@ -1,0 +1,2238 @@
+[
+  {
+    "user_id": 782,
+    "timestamp": "2023-10-01T10:45:00Z",
+    "delta": 0.705,
+    "new_sentiment": 0.3,
+    "current_message": "I\u2019d like to read the daily stories! They used to lift my spirits.",
+    "previous_message": "I\u2019d appreciate that. My grandson usually helps, but he\u2019s busy with school lately. I feel so helpless.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:50:00Z",
+    "delta": 0.825,
+    "new_sentiment": 1.0,
+    "current_message": "Great choice! You can find them in the 'Stories' section. Just tap on that menu. Let me know if you need help finding it.",
+    "previous_message": "Let\u2019s take it one step at a time. What\u2019s the first thing you want to do on the app?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T11:20:00Z",
+    "delta": 1.0907407407407408,
+    "new_sentiment": -0.09074074074074073,
+    "current_message": "I\u2019m sorry to hear that, ChattyPenguin. It\u2019s tough to feel unwell. Would you like to share more about what\u2019s bothering you?",
+    "previous_message": "Great choice! You can find them in the 'Stories' section. Just tap on that menu. Let me know if you need help finding it.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T11:30:00Z",
+    "delta": 0.5540740740740739,
+    "new_sentiment": 0.46333333333333326,
+    "current_message": "That's a poignant lesson, ChattyPenguin. Prioritizing safety is always wise. Have you shared your recent concerns with family?",
+    "previous_message": "I\u2019m sorry to hear that, ChattyPenguin. It\u2019s tough to feel unwell. Would you like to share more about what\u2019s bothering you?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T12:25:00Z",
+    "delta": 0.88,
+    "new_sentiment": -0.16,
+    "current_message": "Alright! Consider putting non-slip mats in the kitchen and bathroom, and make sure all the pathways in your home are clear. You can also have a personal alarm system.",
+    "previous_message": "It's great that you have a lovely garden to enjoy! Finding ways to make your space safer could ease some worries. Would you like tips on that?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-04T11:15:00Z",
+    "delta": 1.16,
+    "new_sentiment": 1.0,
+    "current_message": "You're very welcome! It's always a pleasure to help. Let me know how the conversation goes with your daughter.",
+    "previous_message": "Alright! Consider putting non-slip mats in the kitchen and bathroom, and make sure all the pathways in your home are clear. You can also have a personal alarm system.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T09:02:00Z",
+    "delta": 1.2449999999999999,
+    "new_sentiment": -0.24499999999999997,
+    "current_message": "Hi CuriousPeach! I'm here to help. I\u2019m sorry to hear you're having trouble. Have you tried reinstalling the app?",
+    "previous_message": "You're very welcome! It's always a pleasure to help. Let me know how the conversation goes with your daughter.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 360,
+    "timestamp": "2023-10-01T09:10:00Z",
+    "delta": 0.5443518518518518,
+    "new_sentiment": 0.43999999999999995,
+    "current_message": "Yes, but they just tell me to rest. It feels like I\u2019m just sitting around these days, not doing much.",
+    "previous_message": "Not yet! I\u2019ll give that a try. Meanwhile, my knees are acting up again. It\u2019s hard to get up and down.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 360,
+    "timestamp": "2023-10-04T09:35:00Z",
+    "delta": 0.79,
+    "new_sentiment": -0.37,
+    "current_message": "I suppose it\u2019s about those connections, but sometimes I feel lonely, even with family nearby.",
+    "previous_message": "Mostly landscapes. I loved capturing the colors of sunsets. Speaking of colors, what do you think about life? What's the point of all this?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-04T09:37:00Z",
+    "delta": 0.6743055555555555,
+    "new_sentiment": -0.046666666666666655,
+    "current_message": "I'm sorry to hear you're feeling lonely. It's important to stay connected. Have you tried reaching out to your family?",
+    "previous_message": "That\u2019s a profound question, CuriousPeach! Many believe the point of life is to find joy and connection. What do you think?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 360,
+    "timestamp": "2023-10-05T09:40:00Z",
+    "delta": 0.7654545454545454,
+    "new_sentiment": 0.39545454545454545,
+    "current_message": "I did! My granddaughter called me yesterday. We talked for an hour about her new job.",
+    "previous_message": "I suppose it\u2019s about those connections, but sometimes I feel lonely, even with family nearby.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-05T09:42:00Z",
+    "delta": 0.7666666666666666,
+    "new_sentiment": 0.72,
+    "current_message": "That sounds wonderful! Conversations like that can really brighten your day. How did it make you feel?",
+    "previous_message": "I'm sorry to hear you're feeling lonely. It's important to stay connected. Have you tried reaching out to your family?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T09:47:00Z",
+    "delta": 0.5916666666666667,
+    "new_sentiment": 0.12833333333333333,
+    "current_message": "It\u2019s understandable to want to be more active with family. Perhaps you can plan some low-key activities together?",
+    "previous_message": "That sounds wonderful! Conversations like that can really brighten your day. How did it make you feel?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-08T09:52:00Z",
+    "delta": 0.7404166666666666,
+    "new_sentiment": 0.8687499999999999,
+    "current_message": "You\u2019re welcome! I hope it\u2019s a lovely time. Let me know how it goes!",
+    "previous_message": "It\u2019s understandable to want to be more active with family. Perhaps you can plan some low-key activities together?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:05:00Z",
+    "delta": 0.8687499999999999,
+    "new_sentiment": 0.0,
+    "current_message": "Hi CheerfulOtter! I\u2019m here to help. Have you tried restarting the app?",
+    "previous_message": "You\u2019re welcome! I hope it\u2019s a lovely time. Let me know how it goes!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:13:15Z",
+    "delta": 0.03749999999999998,
+    "new_sentiment": -0.175,
+    "current_message": "Hi AnxiousPenguin! I'm here for you. Want to talk about what's making you anxious?",
+    "previous_message": "I'm sorry to hear that! Have you considered seeing a doctor about your knees?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:19:30Z",
+    "delta": 0.8722222222222222,
+    "new_sentiment": -0.5722222222222222,
+    "current_message": "That sounds really tough. Try to take it one day at a time. Is there something that helps you relax?",
+    "previous_message": "I'm really sorry to hear that. Have you been able to talk to your doctor about it?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:22:00Z",
+    "delta": 1.2722222222222221,
+    "new_sentiment": 0.7,
+    "current_message": "Music can be a great distraction! Would you like me to suggest some calming playlists?",
+    "previous_message": "That sounds really tough. Try to take it one day at a time. Is there something that helps you relax?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:31:00Z",
+    "delta": 0.036388888888888804,
+    "new_sentiment": 0.6636111111111112,
+    "current_message": "It's perfectly okay to take it easy today. Walking can be refreshing, but listen to your body!",
+    "previous_message": "You're welcome! Let me know how it goes. Do you have any plans for today?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 648,
+    "timestamp": "2023-10-02T09:33:30Z",
+    "delta": 0.86,
+    "new_sentiment": 0.385,
+    "current_message": "I listened to 'Chill Vibes' yesterday. It was nice, helped me feel a bit better.",
+    "previous_message": "I didn't go for a walk after all. Just felt too anxious. I stayed inside.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:02:00Z",
+    "delta": 0.0,
+    "new_sentiment": 0.3,
+    "current_message": "I understand! Is there a specific feature you need help with?",
+    "previous_message": "Hello there! I'm StoryBot. How can I assist you today?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:04:00Z",
+    "delta": 0.6,
+    "new_sentiment": -0.3,
+    "current_message": "No problem! Usually, you can find your messages in the 'Inbox' section. Tap there gently!",
+    "previous_message": "I understand! Is there a specific feature you need help with?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:07:00Z",
+    "delta": 1.3,
+    "new_sentiment": 1.0,
+    "current_message": "You're doing great! Technology can be tricky. Would you like me to guide you step-by-step?",
+    "previous_message": "No problem! Usually, you can find your messages in the 'Inbox' section. Tap there gently!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:09:00Z",
+    "delta": 0.5625,
+    "new_sentiment": 0.4375,
+    "current_message": "Okay! Start by finding the home screen. You should see an icon that looks like an envelope.",
+    "previous_message": "You're doing great! Technology can be tricky. Would you like me to guide you step-by-step?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-01T08:18:00Z",
+    "delta": 0.698125,
+    "new_sentiment": -0.06999999999999998,
+    "current_message": "Well, I was just feeling a bit overwhelmed. Sometimes it feels lonely at my age.",
+    "previous_message": "I see them now! Oh, this is exciting! Thank you!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:22:00Z",
+    "delta": 0.04545454545454547,
+    "new_sentiment": 0.39545454545454545,
+    "current_message": "It\u2019s commendable that you\u2019re trying! Have you thought about joining groups or activities to meet new people?",
+    "previous_message": "I\u2019m here for you. It\u2019s perfectly okay to feel that way. Have you been able to connect with family or friends?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-02T08:00:00Z",
+    "delta": 0.69375,
+    "new_sentiment": 0.69375,
+    "current_message": "Good morning, StoryBot! I\u2019m ready to try out this virtual chatting!",
+    "previous_message": "Maybe I\u2019ll try! Just got to figure out how to set it up.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T08:01:00Z",
+    "delta": 0.81625,
+    "new_sentiment": 0.95625,
+    "current_message": "Good morning! That\u2019s great to hear! Let\u2019s start by choosing a platform. Have you heard of Zoom?",
+    "previous_message": "I can help with that! Let me know when you\u2019re ready, and we can start.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-02T08:02:00Z",
+    "delta": 0.69375,
+    "new_sentiment": 0.0,
+    "current_message": "Zoom? I think I\u2019ve heard the name before. Is it simple?",
+    "previous_message": "Good morning, StoryBot! I\u2019m ready to try out this virtual chatting!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T08:04:00Z",
+    "delta": 0.65625,
+    "new_sentiment": 0.3,
+    "current_message": "Yes, it\u2019s user-friendly! Let me help you download it. You just need to head to the app store.",
+    "previous_message": "Good morning! That\u2019s great to hear! Let\u2019s start by choosing a platform. Have you heard of Zoom?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T08:07:00Z",
+    "delta": 0.0,
+    "new_sentiment": 0.3,
+    "current_message": "Now open the Zoom app and create an account. It will guide you through the process.",
+    "previous_message": "Yes, it\u2019s user-friendly! Let me help you download it. You just need to head to the app store.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T08:10:00Z",
+    "delta": 0.7,
+    "new_sentiment": 1.0,
+    "current_message": "Awesome! Once your account is set up, I can guide you on how to join meetings!",
+    "previous_message": "Now open the Zoom app and create an account. It will guide you through the process.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-02T08:12:00Z",
+    "delta": 0.5625,
+    "new_sentiment": 0.0,
+    "current_message": "Finished! Now what?",
+    "previous_message": "Alright, I\u2019m creating an account. This is exciting!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T08:13:00Z",
+    "delta": 0.0,
+    "new_sentiment": 1.0,
+    "current_message": "Great! Now, if someone shares a Zoom link with you, you can click on it to join a meeting.",
+    "previous_message": "Awesome! Once your account is set up, I can guide you on how to join meetings!",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-02T08:15:00Z",
+    "delta": 0.825,
+    "new_sentiment": 0.825,
+    "current_message": "Got it! I hope I can meet some nice people on it. Thank you for your help!",
+    "previous_message": "Finished! Now what?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-03T08:00:00Z",
+    "delta": 0.5249999999999999,
+    "new_sentiment": 0.3,
+    "current_message": "Hi again, StoryBot! I actually got a Zoom link from my daughter!",
+    "previous_message": "Got it! I hope I can meet some nice people on it. Thank you for your help!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-03T08:05:00Z",
+    "delta": 0.6781250000000001,
+    "new_sentiment": 0.7375,
+    "current_message": "It was nice to see my daughter and her friends! I felt a bit more connected.",
+    "previous_message": "Yes, I did! It was a little nerve-racking but I did it!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-03T08:07:00Z",
+    "delta": 0.7141666666666667,
+    "new_sentiment": 0.02333333333333334,
+    "current_message": "I agree! But sometimes I still feel tired a lot. My health hasn\u2019t been great lately.",
+    "previous_message": "It was nice to see my daughter and her friends! I felt a bit more connected.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T08:08:00Z",
+    "delta": 0.8049810606060606,
+    "new_sentiment": -0.35,
+    "current_message": "I\u2019m sorry to hear that. Have you spoken to your doctor about how you\u2019re feeling?",
+    "previous_message": "That sounds lovely! Social interactions can have such a positive impact on our mood.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-03T08:10:00Z",
+    "delta": 0.09333333333333331,
+    "new_sentiment": 0.11666666666666665,
+    "current_message": "Yes, I spoke with them last week. They told me to get more rest and take my meds regularly.",
+    "previous_message": "I agree! But sometimes I still feel tired a lot. My health hasn\u2019t been great lately.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T08:11:00Z",
+    "delta": 0.7899999999999999,
+    "new_sentiment": 0.43999999999999995,
+    "current_message": "That makes sense. It\u2019s important to follow their advice. Are you getting enough sleep?",
+    "previous_message": "I\u2019m sorry to hear that. Have you spoken to your doctor about how you\u2019re feeling?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T08:14:00Z",
+    "delta": 0.72,
+    "new_sentiment": -0.27999999999999997,
+    "current_message": "That sounds frustrating. Would you like some tips on how to relax before sleep?",
+    "previous_message": "That makes sense. It\u2019s important to follow their advice. Are you getting enough sleep?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T08:17:00Z",
+    "delta": 0.72,
+    "new_sentiment": 0.43999999999999995,
+    "current_message": "You can try reading a book, doing some gentle stretching, or listening to calming music.",
+    "previous_message": "That sounds frustrating. Would you like some tips on how to relax before sleep?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-04T08:04:00Z",
+    "delta": 0.05499999999999994,
+    "new_sentiment": 0.6499999999999999,
+    "current_message": "Mysteries are so engaging! What was the storyline about?",
+    "previous_message": "That\u2019s wonderful to hear! A good book can be quite a soothing escape.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-05T08:03:00Z",
+    "delta": 0.9124999999999999,
+    "new_sentiment": 0.0,
+    "current_message": "I\u2019ve heard of those! I\u2019ll check them out. Thank you!",
+    "previous_message": "Good morning, StoryBot! I\u2019m thinking about trying a virtual book club. Got any tips?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-05T08:04:00Z",
+    "delta": 0.05541666666666667,
+    "new_sentiment": 0.8366666666666667,
+    "current_message": "You\u2019re welcome to explore! It\u2019s a great way to meet others who love reading.",
+    "previous_message": "Good morning! A virtual book club sounds like a fantastic idea! Look for groups on platforms like Facebook or Goodreads.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-05T08:05:00Z",
+    "delta": 0.5625,
+    "new_sentiment": 0.5625,
+    "current_message": "I really look forward to it! I love sharing thoughts on stories with others.",
+    "previous_message": "I\u2019ve heard of those! I\u2019ll check them out. Thank you!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-05T08:06:00Z",
+    "delta": 0.6991666666666667,
+    "new_sentiment": 0.1375,
+    "current_message": "It\u2019s so rewarding! I can't wait to hear about your experience with the book club.",
+    "previous_message": "You\u2019re welcome to explore! It\u2019s a great way to meet others who love reading.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T08:01:00Z",
+    "delta": 0.8625,
+    "new_sentiment": 1.0,
+    "current_message": "That\u2019s wonderful news! What\u2019s the name of the club?",
+    "previous_message": "It\u2019s so rewarding! I can't wait to hear about your experience with the book club.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-07T08:00:00Z",
+    "delta": 0.08124999999999999,
+    "new_sentiment": 0.21875,
+    "current_message": "Hi StoryBot! I had my first book club meeting yesterday!",
+    "previous_message": "Not yet, but I\u2019m planning to join the next one. Looking forward to it!",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-07T08:03:00Z",
+    "delta": 0.5249999999999999,
+    "new_sentiment": 0.825,
+    "current_message": "That\u2019s amazing! I\u2019m so glad you found a wonderful group to share your passion with.",
+    "previous_message": "How did it go? I\u2019m eager to hear all about it!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-07T08:10:00Z",
+    "delta": 0.635,
+    "new_sentiment": 0.685,
+    "current_message": "It\u2019s my pleasure! Your happiness is important to me. How's everything else going?",
+    "previous_message": "That\u2019s a great plan! Maybe set regular check-ins or calls with them.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-08T08:00:00Z",
+    "delta": 0.5425,
+    "new_sentiment": 0.6124999999999999,
+    "current_message": "Hi StoryBot! I\u2019m feeling so good today!",
+    "previous_message": "I\u2019ll definitely do that! Thanks for always being here for me, StoryBot.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-08T08:07:00Z",
+    "delta": 0.5405555555555555,
+    "new_sentiment": 0.3719444444444444,
+    "current_message": "I agree! I wish I could see her more often, though. It\u2019s hard to be so far away.",
+    "previous_message": "She shared her school stories, and we laughed a lot. It reminded me of my youth!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-08T08:08:00Z",
+    "delta": 0.9902777777777776,
+    "new_sentiment": -0.34027777777777773,
+    "current_message": "Distance can be tough, but you have technology to help bridge that gap!",
+    "previous_message": "Those moments are precious. It\u2019s wonderful to bond with the younger generation!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-08T08:09:00Z",
+    "delta": 0.06569444444444444,
+    "new_sentiment": 0.30624999999999997,
+    "current_message": "True! I just need to keep setting up those video calls.",
+    "previous_message": "I agree! I wish I could see her more often, though. It\u2019s hard to be so far away.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-08T08:10:00Z",
+    "delta": 0.9246527777777778,
+    "new_sentiment": 0.584375,
+    "current_message": "Exactly! You can create lovely memories even from afar.",
+    "previous_message": "Distance can be tough, but you have technology to help bridge that gap!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-09T08:00:00Z",
+    "delta": 0.054444444444444406,
+    "new_sentiment": 0.25180555555555556,
+    "current_message": "Good morning, StoryBot! I\u2019m feeling a bit down today\u2026",
+    "previous_message": "True! I just need to keep setting up those video calls.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-09T08:01:00Z",
+    "delta": 1.234375,
+    "new_sentiment": -0.6499999999999999,
+    "current_message": "I\u2019m sorry to hear that. What\u2019s been bothering you?",
+    "previous_message": "Exactly! You can create lovely memories even from afar.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-09T08:03:00Z",
+    "delta": 1.0812499999999998,
+    "new_sentiment": 0.43124999999999997,
+    "current_message": "It\u2019s completely normal to feel that way. Remember, you\u2019re not alone in this!",
+    "previous_message": "I\u2019m sorry to hear that. What\u2019s been bothering you?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-09T08:07:00Z",
+    "delta": 0.58,
+    "new_sentiment": 0.58,
+    "current_message": "It\u2019s not a burden! Your feelings are important. They would want to know how you\u2019re doing.",
+    "previous_message": "I\u2019m always here to remind you. Have you thought about sharing how you feel with your family?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-10T08:00:00Z",
+    "delta": 0.6624999999999999,
+    "new_sentiment": 0.9124999999999999,
+    "current_message": "Good morning! I reached out to my daughter yesterday.",
+    "previous_message": "You\u2019re right. I\u2019ll think about it! Thank you for listening.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 876,
+    "timestamp": "2023-10-10T08:02:00Z",
+    "delta": 0.7374999999999998,
+    "new_sentiment": 0.175,
+    "current_message": "It went really well! I shared how I\u2019ve been feeling. She was so understanding.",
+    "previous_message": "Good morning! I reached out to my daughter yesterday.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-10T08:08:00Z",
+    "delta": 1.0,
+    "new_sentiment": 0.0,
+    "current_message": "I\u2019m here for you, always. Let me know what else you might need.",
+    "previous_message": "I\u2019m so happy for you! Remember, expressing feelings is a sign of strength.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T08:20:00Z",
+    "delta": 0.6499999999999999,
+    "new_sentiment": 0.6499999999999999,
+    "current_message": "Hi CharmingChipmunk! I'm here and ready to chat. I'm just a program, so I don't experience days, but I'm happy to help you through yours. What\u2019s been overwhelming you at work?",
+    "previous_message": "I\u2019m here for you, always. Let me know what else you might need.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 346,
+    "timestamp": "2023-10-02T09:00:00Z",
+    "delta": 0.6445,
+    "new_sentiment": -0.1925,
+    "current_message": "Hey StoryBot! Just checking in after a long day. Soccer practice went well, but I\u2019m exhausted!",
+    "previous_message": "I enjoy a mix of light jogging and some flow yoga. It\u2019s all about balance, right? Anyway, I need to get back to work, but I\u2019ll check in later!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 346,
+    "timestamp": "2023-10-02T09:40:00Z",
+    "delta": 0.5279166666666666,
+    "new_sentiment": 0.8716666666666666,
+    "current_message": "We like to go to the nearby state park. It\u2019s got beautiful trails and a nice lake. Great for making memories!",
+    "previous_message": "Nothing major planned, just trying to keep the balance with work and family. Maybe a family hike this weekend.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T09:45:00Z",
+    "delta": 0.64125,
+    "new_sentiment": 0.825,
+    "current_message": "Sounds perfect! Making memories is what it's all about. Enjoy your evening, CharmingChipmunk!",
+    "previous_message": "A family hike sounds fantastic! Nature is such a great way to recharge. Where do you usually go hiking?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 346,
+    "timestamp": "2023-10-02T09:50:00Z",
+    "delta": 0.7622916666666666,
+    "new_sentiment": 0.109375,
+    "current_message": "Thanks, StoryBot! You too! Catch you later!",
+    "previous_message": "We like to go to the nearby state park. It\u2019s got beautiful trails and a nice lake. Great for making memories!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:05:00Z",
+    "delta": 0.6616666666666666,
+    "new_sentiment": 0.1633333333333333,
+    "current_message": "Hi, HappyTurtle! That sounds awesome! How long do you usually jog for?",
+    "previous_message": "Sounds perfect! Making memories is what it's all about. Enjoy your evening, CharmingChipmunk!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 212,
+    "timestamp": "2023-10-01T10:07:00Z",
+    "delta": 0.63,
+    "new_sentiment": 0.06999999999999999,
+    "current_message": "I try to go for about 30 minutes. It's my time to think and clear my mind. How's your day going?",
+    "previous_message": "Hey there, StoryBot! It's a great day today. Just finished my morning jog\u2014feeling energized!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:18:00Z",
+    "delta": 1.0175,
+    "new_sentiment": 1.0,
+    "current_message": "Pottery sounds wonderful! It can be so therapeutic. Have you tried it before?",
+    "previous_message": "I'm here and ready to chat! What's been on your mind lately?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:25:00Z",
+    "delta": 0.65,
+    "new_sentiment": 0.35,
+    "current_message": "That\u2019s great! Maybe look for a local class or online tutorials to get started?",
+    "previous_message": "Pottery sounds wonderful! It can be so therapeutic. Have you tried it before?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 212,
+    "timestamp": "2023-10-10T08:00:00Z",
+    "delta": 0.58875,
+    "new_sentiment": 0.017499999999999995,
+    "current_message": "Hey, StoryBot! Just had my pottery class! It was so much fun, but messy!",
+    "previous_message": "Good idea! I've signed up for a beginner\u2019s class next weekend. Wish me luck!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 212,
+    "timestamp": "2023-10-15T17:05:00Z",
+    "delta": 1.0,
+    "new_sentiment": 1.0,
+    "current_message": "We\u2019re thinking of going for a hike and maybe cooking dinner together. Family time is the best!",
+    "previous_message": "Definitely! I can\u2019t wait for my next class. Also, my daughter is visiting this weekend.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-15T17:20:00Z",
+    "delta": 0.0,
+    "new_sentiment": 0.825,
+    "current_message": "Yum! That sounds delicious. Enjoy your time with her this weekend!",
+    "previous_message": "That sounds like a perfect weekend! What\u2019s your favorite dish to cook together?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 212,
+    "timestamp": "2023-10-26T09:00:00Z",
+    "delta": 0.5175347222222222,
+    "new_sentiment": -0.0775347222222222,
+    "current_message": "Hey, StoryBot! I\u2019ve been feeling a little down lately. Work has been really stressful.",
+    "previous_message": "Yes! I got a few great shots of the landscape. I\u2019ll have to share them next time.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-26T09:05:00Z",
+    "delta": 0.8789583333333333,
+    "new_sentiment": -0.6499999999999999,
+    "current_message": "I\u2019m sorry to hear that, HappyTurtle. What\u2019s been causing the stress at work?",
+    "previous_message": "I\u2019d love to see them! Nature is such a beautiful subject for photography.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 212,
+    "timestamp": "2023-10-26T09:20:00Z",
+    "delta": 0.5541666666666667,
+    "new_sentiment": -0.20416666666666666,
+    "current_message": "Yes, I think I might reach out for some support. It\u2019s hard to admit when I need help.",
+    "previous_message": "Just deadlines piling up and feeling overwhelmed. I need to find a better balance.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-26T09:25:00Z",
+    "delta": 1.1736111111111112,
+    "new_sentiment": 0.7375,
+    "current_message": "It\u2019s completely okay to ask for help! I\u2019m here to support you through it all.",
+    "previous_message": "That sounds really tough. Have you considered talking to someone about it or managing your time differently?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 166,
+    "timestamp": "2023-10-02T10:00:00Z",
+    "delta": 0.525,
+    "new_sentiment": 0.525,
+    "current_message": "Hey StoryBot! Just wanted to give you an update: I managed to run for 20 minutes this morning! It felt amazing! \ud83c\udfc3\u200d\u2642\ufe0f",
+    "previous_message": "I\u2019m thinking of starting with a short run tomorrow morning. Just to get back into the groove! Fingers crossed I stick to it.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T10:30:00Z",
+    "delta": 0.5099999999999999,
+    "new_sentiment": 0.7549999999999999,
+    "current_message": "That\u2019s fantastic to hear! It\u2019s all about finding that joy in movement. Any plans for tomorrow?",
+    "previous_message": "That\u2019s awesome! 20 minutes is a fantastic start! How did it feel physically and mentally out there?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 66,
+    "timestamp": "2023-10-01T10:10:00Z",
+    "delta": 0.805290404040404,
+    "new_sentiment": -0.5168055555555555,
+    "current_message": "I've been trying to stay active, but I've been struggling with plantar fasciitis lately. It\u2019s tough to keep moving when my foot hurts!",
+    "previous_message": "Hi StoryBot! It\u2019s been a busy week for me. I tried a new recipe using quinoa that turned out great! How's your day going?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 66,
+    "timestamp": "2023-10-01T10:20:00Z",
+    "delta": 0.5168055555555555,
+    "new_sentiment": 0.0,
+    "current_message": "I've been doing some stretches, and I started using ice packs which help a bit. I\u2019ve also been looking into shoe inserts. Any recommendations?",
+    "previous_message": "I've been trying to stay active, but I've been struggling with plantar fasciitis lately. It\u2019s tough to keep moving when my foot hurts!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T09:45:00Z",
+    "delta": 0.0631060606060605,
+    "new_sentiment": 0.5731060606060605,
+    "current_message": "I\u2019m always learning new things to assist users like you! I read about some healthy eating trends that you might find interesting.",
+    "previous_message": "That makes sense. It\u2019s all about balance. Perhaps you can focus on upper body workouts or gentle yoga in the meantime? Those can be good alternatives.",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-04T14:50:00Z",
+    "delta": 0.6266666666666666,
+    "new_sentiment": 0.30333333333333334,
+    "current_message": "That\u2019s amazing progress! Remember, small steps can lead to great changes. How\u2019s the recovery process going?",
+    "previous_message": "It sounds delicious! And a great way to start the day. Have you noticed any changes in your energy levels?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 905,
+    "timestamp": "2023-10-01T12:38:00Z",
+    "delta": 0.6204166666666666,
+    "new_sentiment": -0.40208333333333335,
+    "current_message": "Yeah, I saw one last week. They\u2019re running some tests, but it\u2019s just hard to wait. I feel so out of control.",
+    "previous_message": "I\u2019ve been dealing with these seizures... It\u2019s scary. I don\u2019t really know what to do.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T12:43:00Z",
+    "delta": 0.74875,
+    "new_sentiment": 0.44875,
+    "current_message": "That\u2019s completely understandable! Have you tried any techniques to calm your mind?",
+    "previous_message": "I can imagine! Waiting can be one of the toughest parts. How\u2019s your anxiety been with all of this?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T13:28:00Z",
+    "delta": 0.72,
+    "new_sentiment": -0.4225,
+    "current_message": "Anxiety can make it feel harder, I get that. One small step at a time. Maybe start with a text?",
+    "previous_message": "You\u2019re not bothering them! True friends want to help you. It's okay to lean on them.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T14:12:00Z",
+    "delta": 1.4224999999999999,
+    "new_sentiment": 1.0,
+    "current_message": "Awesome! I\u2019m proud of you for taking that step. Keep me posted!",
+    "previous_message": "Anxiety can make it feel harder, I get that. One small step at a time. Maybe start with a text?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 905,
+    "timestamp": "2023-10-04T11:20:00Z",
+    "delta": 0.825,
+    "new_sentiment": 0.825,
+    "current_message": "Hey! I texted my friend and we talked. It was so nice! \ud83d\ude0a",
+    "previous_message": "That sounds doable! I\u2019ll try that later today.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 905,
+    "timestamp": "2023-10-05T10:40:00Z",
+    "delta": 0.5133333333333333,
+    "new_sentiment": 0.31166666666666665,
+    "current_message": "It felt really relieving. I shared my worries, and they listened. It helped me feel less alone.",
+    "previous_message": "Hey! I texted my friend and we talked. It was so nice! \ud83d\ude0a",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T15:02:00Z",
+    "delta": 0.58,
+    "new_sentiment": 0.0,
+    "current_message": "That\u2019s the spirit! Just take it one day at a time. How are you feeling today?",
+    "previous_message": "That\u2019s a beautiful thing! Support really makes a difference. What\u2019s next for you?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-07T10:32:00Z",
+    "delta": 0.65625,
+    "new_sentiment": 0.65625,
+    "current_message": "I\u2019m thrilled to hear that! Keep focusing on the positives. You\u2019ve got this! \ud83c\udf08",
+    "previous_message": "That\u2019s the spirit! Just take it one day at a time. How are you feeling today?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 604,
+    "timestamp": "2023-10-02T12:00:00Z",
+    "delta": 0.51875,
+    "new_sentiment": 0.51875,
+    "current_message": "I try to take short breaks and go for walks. My partner says I need to meditate more! Do you think meditation helps?",
+    "previous_message": "We try to! Although lately, life has been busy with work and home projects. Honestly, it can be exhausting. \ud83d\ude05",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T09:00:00Z",
+    "delta": 0.05170454545454545,
+    "new_sentiment": 0.5306818181818181,
+    "current_message": "I'm so glad to hear that! Positive encouragement can brighten your journey. What's something new you want to try this week?",
+    "previous_message": "That\u2019s the spirit! Exploring new things can be exciting. If you ever want recommendations, I'm here for you!",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-09T10:05:00Z",
+    "delta": 0.055151515151515174,
+    "new_sentiment": 0.6818181818181818,
+    "current_message": "That\u2019s wonderful to hear! What did you guys cook? Did you find any new favorite dishes?",
+    "previous_message": "That\u2019s great! Enjoy your walk together. Engage with nature, and let me know how it goes later!",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-01T09:00:00Z",
+    "delta": 0.6818181818181818,
+    "new_sentiment": 0.0,
+    "current_message": "Hello there! I'm StoryBot, and I'm here to chat with you. What's on your mind today?",
+    "previous_message": "That\u2019s wonderful to hear! What did you guys cook? Did you find any new favorite dishes?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-01T09:06:00Z",
+    "delta": 0.685,
+    "new_sentiment": 0.685,
+    "current_message": "That sounds like it can be overwhelming. What kind of routine are you trying to start?",
+    "previous_message": "Hello there! I'm StoryBot, and I'm here to chat with you. What's on your mind today?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-01T09:12:00Z",
+    "delta": 0.6985521885521886,
+    "new_sentiment": -0.013552188552188555,
+    "current_message": "That's understandable! Starting a new workout can feel daunting. I can help you break it down into manageable steps if you'd like!",
+    "previous_message": "That sounds like it can be overwhelming. What kind of routine are you trying to start?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-01T09:18:00Z",
+    "delta": 0.5323021885521886,
+    "new_sentiment": 0.51875,
+    "current_message": "Absolutely! Let's start with your current fitness level. What kind of exercises do you currently enjoy?",
+    "previous_message": "That's understandable! Starting a new workout can feel daunting. I can help you break it down into manageable steps if you'd like!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 110,
+    "timestamp": "2023-11-02T10:00:00Z",
+    "delta": 0.6101388888888888,
+    "new_sentiment": -0.17013888888888887,
+    "current_message": "Hey again, StoryBot! So, I tried a short strength workout yesterday. It was tough! Felt like jelly afterward. \ud83d\ude02",
+    "previous_message": "I like walking, and I used to do yoga. Strong-ish on flexibility, but strength? Not so much. \ud83d\ude02",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-02T10:07:00Z",
+    "delta": 0.6015625,
+    "new_sentiment": -0.1640625,
+    "current_message": "That's the spirit! A little soreness means you're getting stronger! Do you plan to continue with strength training?",
+    "previous_message": "That's awesome that you tried it! Feeling jelly is a good sign; it means your muscles are working! How did it feel overall?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-11-03T08:08:00Z",
+    "delta": 0.10937499999999997,
+    "new_sentiment": 0.27999999999999997,
+    "current_message": "Great question! Start with a weight that allows you to perform your exercises with good form. You should be able to finish your reps but feel challenged by the last few.",
+    "previous_message": "That\u2019s fantastic! Going at your own pace is key. Do you have any questions about adding weights or any other exercises?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 110,
+    "timestamp": "2023-11-04T10:10:00Z",
+    "delta": 0.7254166666666667,
+    "new_sentiment": -0.2125,
+    "current_message": "Thanks! Can\u2019t wait to update you on my next workout! \ud83d\udcaa",
+    "previous_message": "Got it! I\u2019ll start light and see how it goes. Thanks so much, StoryBot! You rock! \ud83c\udf1f",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-02T11:07:00Z",
+    "delta": 0.5347222222222221,
+    "new_sentiment": -0.2722222222222222,
+    "current_message": "It\u2019s tough when we feel that way. Have you had a chance to talk to them about how you feel?",
+    "previous_message": "Walking is a great way to recharge. Do you know how long you've been feeling this way?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 328,
+    "timestamp": "2023-10-04T08:30:00Z",
+    "delta": 0.5449999999999999,
+    "new_sentiment": -0.3,
+    "current_message": "Just something I\u2019ve been thinking about. Life can be so chaotic; it makes you wonder about the big picture.",
+    "previous_message": "That\u2019s true, I\u2019ll think about it. By the way, have you ever wondered why we often feel lost and overwhelmed?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T14:46:00Z",
+    "delta": 0.6445833333333333,
+    "new_sentiment": 0.42,
+    "current_message": "You're welcome! Just remember to be gentle with yourself during this process.",
+    "previous_message": "It can be tough! Maybe jotting down things you're thankful for could help shift your focus?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-10T16:06:00Z",
+    "delta": 0.8133333333333332,
+    "new_sentiment": 0.9299999999999999,
+    "current_message": "That\u2019s wonderful! It sounds like you\u2019re making great progress. How does it feel to share with them?",
+    "previous_message": "That's amazing to hear! Small steps can lead to big changes in our mindset. How do you feel now?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 328,
+    "timestamp": "2023-10-11T18:00:00Z",
+    "delta": 0.73203125,
+    "new_sentiment": 0.72,
+    "current_message": "It felt really good. I think it brought us closer. I\u2019ve realized I can lean on them more.",
+    "previous_message": "I\u2019m feeling a little lighter! Also, I spoke to my kids about my feelings. They were very understanding.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-11T18:01:00Z",
+    "delta": 0.7549999999999999,
+    "new_sentiment": 0.175,
+    "current_message": "That\u2019s fantastic! Leaning on your support system can make all the difference. What\u2019s next for you?",
+    "previous_message": "That\u2019s wonderful! It sounds like you\u2019re making great progress. How does it feel to share with them?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T09:25:00Z",
+    "delta": 1.0583333333333333,
+    "new_sentiment": 1.0,
+    "current_message": "Best of luck! I\u2019m here rooting for you. My day is going well, just lots of messages to respond to!",
+    "previous_message": "Setting small goals is key! Mapping out your weekly plans can help. Do you have anything specific you're working towards?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 228,
+    "timestamp": "2023-10-01T09:40:00Z",
+    "delta": 0.5916666666666666,
+    "new_sentiment": 0.4691666666666666,
+    "current_message": "Not yet, but that sounds fun! I usually run alone. It might be nice to have company for a change.",
+    "previous_message": "Haha, I can imagine! So, any tips for keeping motivated during the cold months ahead?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 228,
+    "timestamp": "2023-10-15T11:00:00Z",
+    "delta": 0.8391666666666666,
+    "new_sentiment": -0.37,
+    "current_message": "Hey StoryBot! Just checking in \u2013 the weather is starting to get chilly! Running is becoming quite the challenge.",
+    "previous_message": "Not yet, but that sounds fun! I usually run alone. It might be nice to have company for a change.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-15T11:05:00Z",
+    "delta": 1.4432407407407406,
+    "new_sentiment": -0.4432407407407407,
+    "current_message": "Hi there! Chilly weather can be tough, but running in the fresh air can be invigorating! Have you managed to stick with it?",
+    "previous_message": "It could be a great way to stay committed! Let me know if you find someone to run with. \ud83d\ude0a",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-15T11:15:00Z",
+    "delta": 1.2682407407407408,
+    "new_sentiment": 0.825,
+    "current_message": "That's great to hear! Treadmill sessions can be a lifesaver in winter. How do you keep it interesting?",
+    "previous_message": "Hi there! Chilly weather can be tough, but running in the fresh air can be invigorating! Have you managed to stick with it?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 228,
+    "timestamp": "2023-10-15T11:20:00Z",
+    "delta": 0.6766666666666666,
+    "new_sentiment": 0.7,
+    "current_message": "I\u2019ve been mixing it up with interval training and listening to podcasts. It makes the time fly!",
+    "previous_message": "I went for a run this morning! It was cold, but I felt accomplished afterward. I've also been using my treadmill more.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-08T15:05:00Z",
+    "delta": 1.1478472222222222,
+    "new_sentiment": -0.5722222222222222,
+    "current_message": "Balancing work and fitness can be tough. What do you do to stay on track?",
+    "previous_message": "That sounds exciting! Hiking is a great way to enjoy nature and exercise at the same time.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-10T07:35:00Z",
+    "delta": 1.1180555555555554,
+    "new_sentiment": 0.5458333333333333,
+    "current_message": "That's a smart strategy! Do you have a favorite type of workout right now?",
+    "previous_message": "Balancing work and fitness can be tough. What do you do to stay on track?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 978,
+    "timestamp": "2023-10-20T16:30:00Z",
+    "delta": 0.7666666666666666,
+    "new_sentiment": -0.046666666666666655,
+    "current_message": "Yeah, there's one a few blocks away! Over the past few weeks, I've been feeling a lot more motivated to stay active.",
+    "previous_message": "I was thinking of trying out swimming. I used to enjoy it, and it's a great full-body workout.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-20T16:35:00Z",
+    "delta": 0.5070833333333333,
+    "new_sentiment": 0.21291666666666667,
+    "current_message": "That's fantastic to hear! It\u2019s amazing what a little change can do for your motivation.",
+    "previous_message": "Swimming sounds like a great idea! It's gentle on the joints too. Do you have a pool nearby?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:02:00Z",
+    "delta": 0.5508333333333334,
+    "new_sentiment": 0.24499999999999997,
+    "current_message": "Hi PlayfulPanda! That sounds fantastic! I'm always ready to support you. What are you hoping to see on your hike today?",
+    "previous_message": "That\u2019s awesome! I'm glad you're enjoying swimming again! How often are you going?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:08:00Z",
+    "delta": 0.7199999999999999,
+    "new_sentiment": 0.9649999999999999,
+    "current_message": "That's a wonderful mindset! Nature can be incredibly rejuvenating. Have you set any goals for your hike?",
+    "previous_message": "Hi PlayfulPanda! That sounds fantastic! I'm always ready to support you. What are you hoping to see on your hike today?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T09:15:00Z",
+    "delta": 1.02625,
+    "new_sentiment": -0.35,
+    "current_message": "I'm sorry to hear that. It happens to everyone sometimes. What do you think affected your experience?",
+    "previous_message": "That sounds like a perfect plan! Photos are a great way to remember those little moments. Is photography one of your hobbies?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T11:10:00Z",
+    "delta": 0.9999999999999999,
+    "new_sentiment": 0.6499999999999999,
+    "current_message": "It's okay to feel that way. Sometimes life can feel overwhelming. Have you thought about what might help you reconnect?",
+    "previous_message": "I'm sorry to hear that. It happens to everyone sometimes. What do you think affected your experience?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 761,
+    "timestamp": "2023-10-04T10:20:00Z",
+    "delta": 0.6059848484848485,
+    "new_sentiment": 0.42515151515151517,
+    "current_message": "Maybe trying a new place? I really enjoy exploring, but I\u2019ve been stuck in the same routines. \ud83d\ude1e",
+    "previous_message": "Just feeling a bit lost lately, like I\u2019m not really connecting with anything, not even nature. It sucks!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T12:05:00Z",
+    "delta": 0.023333333333333317,
+    "new_sentiment": 0.5333333333333333,
+    "current_message": "I hear you. Seeking that spark is important. Sometimes change can reignite your passion. What else could help you feel more alive?",
+    "previous_message": "It\u2019s natural to feel that way. Remember that the journey itself can be rewarding, regardless of the destination. Want to discuss what you hope to gain from the visit?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T12:25:00Z",
+    "delta": 0.825,
+    "new_sentiment": -0.05833333333333333,
+    "current_message": "Let\u2019s start there! Focus on small steps. Maybe begin by checking out local groups online. Just remember, everyone feels nervous starting out. You\u2019re not alone!",
+    "previous_message": "That\u2019s a wonderful step! It can be nerve-wracking, but community support often makes the experience more enjoyable. Would you like tips on how to get started?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:17:00Z",
+    "delta": 0.7550000000000001,
+    "new_sentiment": 0.6966666666666668,
+    "current_message": "Hi ChirpySquirrel! That's great to hear you're looking to get fit! What are some activities you enjoy?",
+    "previous_message": "Let\u2019s start there! Focus on small steps. Maybe begin by checking out local groups online. Just remember, everyone feels nervous starting out. You\u2019re not alone!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 322,
+    "timestamp": "2023-10-02T12:00:00Z",
+    "delta": 0.5132407407407408,
+    "new_sentiment": 0.5625,
+    "current_message": "I love hiking and swimming! I find them relaxing but challenging at the same time. \ud83c\udfca\u200d\u2640\ufe0f\ud83c\udf32",
+    "previous_message": "Hey StoryBot! I've been trying to get back into a fitness routine, but it's kind of tough. Any tips?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 322,
+    "timestamp": "2023-10-05T11:00:00Z",
+    "delta": 0.729375,
+    "new_sentiment": -0.309375,
+    "current_message": "You're right. I could do shorter walks if I need to. Wait, I didn't mean to hit send\u2014what I was trying to say is that I might also do some evening swims.",
+    "previous_message": "To be honest, I'm a bit nervous. What if I can't make it? Oh, and I also have some work stuff coming up that might conflict.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-09T14:05:00Z",
+    "delta": 0.8075,
+    "new_sentiment": -0.07874999999999999,
+    "current_message": "I'm sorry to hear that! Managing stress is important. Do you have any coping strategies?",
+    "previous_message": "How lovely that you can do it together! It could be a nice bonding experience. When do you plan on going?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-11T18:15:00Z",
+    "delta": 1.3525,
+    "new_sentiment": 0.7899999999999999,
+    "current_message": "Awesome to hear! How was it? Did you enjoy the moves?",
+    "previous_message": "It's a common struggle! Perhaps scheduling breaks during your day could help. What do you think?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-02T09:00:00Z",
+    "delta": 0.72875,
+    "new_sentiment": 0.51875,
+    "current_message": "I think I want to start eating healthier and maybe get back into running. I used to love it!",
+    "previous_message": "Hey StoryBot! Just trying to get a grip on my health. I\u2019ve been feeling a bit sluggish lately and I think it\u2019s time for a change.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-03T10:20:00Z",
+    "delta": 0.5530208333333333,
+    "new_sentiment": -0.019687499999999997,
+    "current_message": "That\u2019s completely normal! Taking small steps can really help. What small change could you make today?",
+    "previous_message": "That sounds like a wonderful plan! What seems to be holding you back from starting?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-04T11:00:00Z",
+    "delta": 0.5499999999999999,
+    "new_sentiment": 0.09999999999999999,
+    "current_message": "Maybe just taking a short walk. It\u2019s not running, but it\u2019s a start, right?",
+    "previous_message": "I guess it\u2019s just the thought of the effort involved. Sometimes it feels overwhelming.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-05T09:30:00Z",
+    "delta": 0.7512499999999999,
+    "new_sentiment": 0.8512499999999998,
+    "current_message": "It went surprisingly well! I felt good afterward. I think I can expand on this.",
+    "previous_message": "Maybe just taking a short walk. It\u2019s not running, but it\u2019s a start, right?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-06T12:00:00Z",
+    "delta": 1.426875,
+    "new_sentiment": -0.5756249999999999,
+    "current_message": "I\u2019m thinking of trying to jog a little tomorrow. Nothing crazy, just to see how it feels.",
+    "previous_message": "It went surprisingly well! I felt good afterward. I think I can expand on this.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-07T08:45:00Z",
+    "delta": 0.6084375,
+    "new_sentiment": 0.032812499999999994,
+    "current_message": "Ran a little today! It was a bit rough, but I did it! I think I might really be able to stick to this.",
+    "previous_message": "I\u2019m thinking of trying to jog a little tomorrow. Nothing crazy, just to see how it feels.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 141,
+    "timestamp": "2023-09-12T10:15:00Z",
+    "delta": 0.5420833333333334,
+    "new_sentiment": 0.2391666666666666,
+    "current_message": "I\u2019m starting to enjoy it more! I ran a bit longer today without feeling wiped out.",
+    "previous_message": "Tried the salad and it was great! I'm excited to keep this momentum going.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 396,
+    "timestamp": "2023-10-01T09:18:00Z",
+    "delta": 0.5644444444444444,
+    "new_sentiment": 0.015555555555555553,
+    "current_message": "Well, I'm actually trying to get back into shape. I used to run marathons, but after my knee surgery last year, it\u2019s been tough. I'm determined to get fit again!",
+    "previous_message": "Hey StoryBot! It's a beautiful day today. I went for a long walk in the park this morning. How have you been?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 396,
+    "timestamp": "2023-10-05T10:47:00Z",
+    "delta": 1.0724999999999998,
+    "new_sentiment": 0.8599999999999999,
+    "current_message": "I managed to jog for 15 minutes nonstop! It felt amazing, and I was so proud of myself!",
+    "previous_message": "I think I need to remind myself that it\u2019s okay to have setbacks. Maybe I should celebrate the small victories instead of focusing on the end goal.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 396,
+    "timestamp": "2023-10-10T11:32:00Z",
+    "delta": 0.7272916666666667,
+    "new_sentiment": 0.715625,
+    "current_message": "Good advice! I\u2019ll take that to heart. Thanks, StoryBot! I\u2019ll keep you posted on my progress!",
+    "previous_message": "Feeling a bit anxious about starting. What if it hurts too much?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-10T11:33:00Z",
+    "delta": 0.6263636363636363,
+    "new_sentiment": 0.7,
+    "current_message": "You're welcome! I'm here to support you. Looking forward to hearing about your journey!",
+    "previous_message": "It\u2019s completely normal to feel anxious, especially when starting something new. Remember to take it at your own pace, and don\u2019t hesitate to consult with a professional if you're unsure.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-03T14:47:00Z",
+    "delta": 0.549375,
+    "new_sentiment": 0.7899999999999999,
+    "current_message": "That\u2019s great to hear! Wobbliness is part of the learning process. Did you enjoy the atmosphere and the instructor?",
+    "previous_message": "It's completely normal to feel nervous! Remember, everyone starts somewhere. Just focus on enjoying the process and listening to your body.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-06T08:03:00Z",
+    "delta": 0.08604166666666668,
+    "new_sentiment": 0.5610416666666667,
+    "current_message": "That sounds like a solid plan! Walking and cycling are excellent ways to stay active. Plus, they can be quite refreshing!",
+    "previous_message": "You\u2019re on a roll, CheerfulCat! Consistency is key. Do you have plans to incorporate more exercises into your routine?",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 439,
+    "timestamp": "2023-10-09T16:20:00Z",
+    "delta": 0.8799999999999999,
+    "new_sentiment": -0.58,
+    "current_message": "Ugh, I skipped my yoga class yesterday. I felt so tired and unmotivated. \ud83d\ude14",
+    "previous_message": "I\u2019ve been thinking about that! Maybe some walking or cycling on the days I don\u2019t have yoga. Just gotta get moving! \ud83d\udeb6\u200d\u2642\ufe0f",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 439,
+    "timestamp": "2023-10-09T16:25:00Z",
+    "delta": 1.2358333333333333,
+    "new_sentiment": 0.6558333333333333,
+    "current_message": "That\u2019s a good idea! I\u2019ll try to roll out my mat and do something light. Thanks for the support, StoryBot! \ud83d\ude0a",
+    "previous_message": "Ugh, I skipped my yoga class yesterday. I felt so tired and unmotivated. \ud83d\ude14",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 439,
+    "timestamp": "2023-10-10T10:30:00Z",
+    "delta": 0.6120833333333333,
+    "new_sentiment": 0.04375,
+    "current_message": "I just got back from a long walk! Feeling energized and ready to tackle the day! \ud83e\udd73",
+    "previous_message": "That\u2019s a good idea! I\u2019ll try to roll out my mat and do something light. Thanks for the support, StoryBot! \ud83d\ude0a",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 259,
+    "timestamp": "2023-10-02T12:30:00Z",
+    "delta": 0.5687500000000001,
+    "new_sentiment": 0.43124999999999997,
+    "current_message": "Hey StoryBot! I didn't get to read last night - I ended up watching a movie instead. It was fun!",
+    "previous_message": "I hope so! Great, I\u2019ll try to squeeze in some reading tonight. I'll let you know what I think!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 259,
+    "timestamp": "2023-10-02T12:36:00Z",
+    "delta": 0.50125,
+    "new_sentiment": 0.0,
+    "current_message": "I might try to read a chapter or two from my book today if I can squeeze it in.",
+    "previous_message": "I watched 'Everything Everywhere All at Once.' It was strange but so entertaining!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-01T10:05:00Z",
+    "delta": 0.0674999999999999,
+    "new_sentiment": 0.7,
+    "current_message": "Hi HappyPenguin! That's awesome to hear! What workout did you do today?",
+    "previous_message": "It really makes you reflect on your own choices, doesn't it? I'm glad it's resonating with you!",
+    "detected_by": {
+      "rule_based": false,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 918,
+    "timestamp": "2023-10-01T10:20:00Z",
+    "delta": 0.5843749999999999,
+    "new_sentiment": 0.06562499999999999,
+    "current_message": "Definitely! I\u2019m aiming for a 5K run next month. I want to improve my time from last year. It\u2019s a fun challenge!",
+    "previous_message": "I did a mix of cardio and strength training. I'm trying to build some muscle while keeping my heart healthy. How about you? What have you been up to?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 918,
+    "timestamp": "2023-10-01T11:20:00Z",
+    "delta": 0.615,
+    "new_sentiment": 0.475,
+    "current_message": "I love to read and watch movies. Recently got into gardening too. It\u2019s therapeutic!",
+    "previous_message": "I\u2019ve started setting firm boundaries for my work hours. I also block off time for myself to relax and unwind.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 918,
+    "timestamp": "2023-10-15T08:40:00Z",
+    "delta": 0.7703125,
+    "new_sentiment": 0.60625,
+    "current_message": "It's thriving! The tomatoes are almost ready to pick! I might have more than I can use!",
+    "previous_message": "Yes! We\u2019re having a little get-together at my place. I\u2019m going to make that salsa I talked about!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-15T08:45:00Z",
+    "delta": 0.7,
+    "new_sentiment": 0.3,
+    "current_message": "Homegrown bounty! Maybe you could share some with your family at the gathering!",
+    "previous_message": "Sounds like a great party! I hope everyone loves your salsa. How\u2019s the garden doing?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-10-29T09:05:00Z",
+    "delta": 0.5249999999999999,
+    "new_sentiment": 0.7,
+    "current_message": "Hi HappyPenguin! It's great to hear from you! I\u2019ve been waiting patiently. How\u2019ve you been?",
+    "previous_message": "No problem! I\u2019ll be here when you\u2019re ready to chat again. Have a productive day!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 918,
+    "timestamp": "2023-10-29T09:10:00Z",
+    "delta": 0.5712499999999999,
+    "new_sentiment": 0.5275,
+    "current_message": "I\u2019ve been good! Busy with work and family. Just finished my 5K last weekend and I did it in 32 minutes!",
+    "previous_message": "Hi StoryBot! Long time, no chat! How have you been?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-08-01T09:00:00Z",
+    "delta": 0.8716666666666666,
+    "new_sentiment": 0.7549999999999999,
+    "current_message": "Hi RadiantButterfly! It\u2019s great to hear from you. Change can be challenging but also very rewarding. What aspects of your routine are you thinking about changing?",
+    "previous_message": "No problem! Have a productive day, HappyPenguin! Let me know how the half marathon training goes.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 294,
+    "timestamp": "2023-08-01T10:15:00Z",
+    "delta": 0.5957765151515152,
+    "new_sentiment": 0.42515151515151517,
+    "current_message": "I think that my workout schedule is too monotonous. I used to enjoy yoga, but now I feel like I do the same thing every week. Maybe it\u2019s time to explore some new classes?",
+    "previous_message": "Hey StoryBot! I've been feeling a little stuck lately. I believe that I need a change in my routine, but I don't know where to start.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-08-06T08:30:00Z",
+    "delta": 0.5031249999999999,
+    "new_sentiment": 0.021875,
+    "current_message": "Absolutely! Finding that balance between discipline and enjoyment is crucial. Have there been any other changes in your life recently?",
+    "previous_message": "That\u2019s fantastic to hear, RadiantButterfly! Empowerment is a wonderful feeling. How do you plan to keep that momentum going?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-08-10T10:15:00Z",
+    "delta": 0.5814583333333333,
+    "new_sentiment": 0.6033333333333333,
+    "current_message": "That\u2019s wonderful! Meditation can be very grounding. How has it been impacting your day-to-day life so far?",
+    "previous_message": "Absolutely! Finding that balance between discipline and enjoyment is crucial. Have there been any other changes in your life recently?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 367,
+    "timestamp": "2023-09-03T08:00:00Z",
+    "delta": 0.72,
+    "new_sentiment": 0.72,
+    "current_message": "A mix of both! I love splashing around in the water, but I also cherish reading a good book by the waves.",
+    "previous_message": "I\u2019m planning a weekend trip to the coast next! I can\u2019t wait to explore the beaches.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-03T08:05:00Z",
+    "delta": 0.57125,
+    "new_sentiment": 0.0,
+    "current_message": "That sounds so relaxing! What\u2019s the book you\u2019re thinking of bringing?",
+    "previous_message": "Sounds like a fun adventure! Do you enjoy swimming or just relaxing by the shore?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 367,
+    "timestamp": "2023-09-03T08:15:00Z",
+    "delta": 0.7535227272727272,
+    "new_sentiment": -0.03352272727272726,
+    "current_message": "I\u2019m torn between a new mystery novel and a light-hearted travel memoir. Decisions, decisions!",
+    "previous_message": "A mix of both! I love splashing around in the water, but I also cherish reading a good book by the waves.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-04T11:00:00Z",
+    "delta": 0.7899999999999999,
+    "new_sentiment": 0.7899999999999999,
+    "current_message": "Both sound like great options! Why not take both and see what you feel like reading at the moment?",
+    "previous_message": "That sounds so relaxing! What\u2019s the book you\u2019re thinking of bringing?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 367,
+    "timestamp": "2023-09-04T11:05:00Z",
+    "delta": 0.6022727272727273,
+    "new_sentiment": 0.56875,
+    "current_message": "That's a great idea! I tend to read more pages when I have options. Thank you!",
+    "previous_message": "I\u2019m torn between a new mystery novel and a light-hearted travel memoir. Decisions, decisions!",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-05T12:15:00Z",
+    "delta": 1.3875,
+    "new_sentiment": -0.6499999999999999,
+    "current_message": "I\u2019m sorry to hear that. Do you have any strategies to cope with the stress?",
+    "previous_message": "I\u2019m glad I could help! How has the rest of your week been?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-06T09:05:00Z",
+    "delta": 1.34375,
+    "new_sentiment": 0.69375,
+    "current_message": "That\u2019s a lovely way to recharge! Have you found any favorite spots nearby?",
+    "previous_message": "I\u2019m sorry to hear that. Do you have any strategies to cope with the stress?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "True",
+      "ml_based_svm": "True"
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-09T12:05:00Z",
+    "delta": 0.6299999999999999,
+    "new_sentiment": 0.3,
+    "current_message": "That sounds insightful! Reflection can lead to personal growth. What have you discovered about yourself?",
+    "previous_message": "That\u2019s wonderful! Journaling can be a great outlet for emotions. What have you been writing about?",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  },
+  {
+    "user_id": 367,
+    "timestamp": "2023-09-11T11:00:00Z",
+    "delta": 0.5780555555555555,
+    "new_sentiment": 0.07194444444444442,
+    "current_message": "Honestly, I might need to set aside specific days just for relaxing. It\u2019s hard to prioritize that.",
+    "previous_message": "I\u2019ve realized I need to find more balance. I love my adventures, but I also need downtime.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": false,
+      "ml_based_svm": false
+    }
+  },
+  {
+    "user_id": 1,
+    "timestamp": "2023-09-12T10:05:00Z",
+    "delta": 0.6124999999999998,
+    "new_sentiment": 0.3,
+    "current_message": "Anytime, JoyfulExplorer! I\u2019m here to help you along your journey.",
+    "previous_message": "That sounds like a good plan! Maybe even block out time in your calendar as a reminder.",
+    "detected_by": {
+      "rule_based": true,
+      "ml_based_iforest": "False",
+      "ml_based_svm": "False"
+    }
+  }
+]
